@@ -1,0 +1,23 @@
+.i {
+  padding: 10px;
+  margin: 20px;
+  font-size: larger;
+  border-style: none;
+  border-radius: 6px;
+  outline-style: none;
+}
+
+.b {
+  width: 65px;
+  padding: 8px;
+  margin: 10px;
+  font-size: larger;
+}
+
+.bd {
+  margin: 10px;
+  color: antiquewhite;
+  background-color: brown;
+  padding: 4px;
+  font-size: medium;
+}
