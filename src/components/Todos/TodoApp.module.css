@@ -10,14 +10,13 @@
 .b {
   width: 65px;
   padding: 8px;
-  margin: 10px;
   font-size: larger;
 }
 
-.bd {
+/* .bd {
   margin: 10px;
   color: antiquewhite;
   background-color: brown;
   padding: 4px;
   font-size: medium;
-}
+} */
